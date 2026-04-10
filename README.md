@@ -8,7 +8,7 @@ An interactive web page where a div element smoothly follows your mouse cursor a
 - 🚀 Lightweight and fast
 
 ## Live Demo
-Check out the live demo: [https://iam269.github.io/Div-Follows-Mouse/](https://iam269.github.io/Div-Follows-Mouse/)
+Check out the live demo: [https://itsiamdev.github.io/Div-Follows-Mouse/](https://itsiamdev.github.io/Div-Follows-Mouse/)
 
 ## How to Use
 Simply open `index.html` in your web browser and move your mouse around to see the div follow!
